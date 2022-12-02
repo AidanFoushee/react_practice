@@ -6,7 +6,7 @@ I followed the React JS tutorial and made a tic tac toe web app.
 
 My purpose for writing this software was too further my knowledge in the area of web apps.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/_7cuO3ls7XM)
 
 # Web Pages
 
